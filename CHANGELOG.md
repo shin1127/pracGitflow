@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/shin1127/pracGitflow/compare/v1.1.0...v1.2.0) (2021-02-03)
+
+
+### Features
+
+* :art: commited on vscode ([c912d32](https://github.com/shin1127/pracGitflow/commit/c912d321efa2d647f0a5eb09b19742cd977f6585))
+* :art: commited on VSCode ([26de43f](https://github.com/shin1127/pracGitflow/commit/26de43fbc5ed9615857e0401036adbbb21ee2c97))
+
 ## [1.1.0](https://github.com/shin1127/pracGitflow/compare/v1.0.4...v1.1.0) (2021-02-03)
 
 
