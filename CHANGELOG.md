@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/shin1127/pracGitflow/compare/v1.0.4...v1.1.0) (2021-02-03)
+
+
+### Features
+
+* hoge ([d74f9b6](https://github.com/shin1127/pracGitflow/commit/d74f9b695a0d94fc2de7c8d857a760323dbaf216))
+
 ### [1.0.4](https://github.com/shin1127/pracGitflow/compare/v1.0.3...v1.0.4) (2021-02-03)
 
 ### [1.0.3](https://github.com/shin1127/pracGitflow/compare/v1.0.2...v1.0.3) (2021-02-03)
